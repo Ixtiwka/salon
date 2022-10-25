@@ -1,0 +1,133 @@
+.container{
+  background-color: rgb(0, 204, 255);
+  width: 243px;
+  height: 252px;
+  border-radius: 5px;
+  margin-top: 80px;
+  margin-left: 350px;
+}
+.ichi{
+  position: absolute;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.box_bir{
+  /* margin-left: 400px; */
+  background-color: whitesmoke;
+  width: 221px;
+  height: 40px;
+  box-shadow: 0px 4px 2px -0.5px rgb(4, 97, 126);
+}
+.text_bir{
+  position: absolute;
+  margin-left: 180px;
+  margin-top: 15px;
+}
+.box_ikki{
+  margin-top: 24px;
+}
+.text_ikki{
+  margin-right: 0.2rem;
+  background-color: whitesmoke;
+  padding: 0.6rem 1.3rem;
+  box-shadow: 0px 4px 2px -0.5px rgb(4, 97, 126);
+}
+.text_uch{
+  margin-right: 0.2rem;
+  background-color: whitesmoke;
+  padding: 0.6rem 1.3rem;
+  box-shadow: 0px 4px 2px -0.5px rgb(4, 97, 126);
+}
+.text_tor{
+  padding: 0.6rem 1.3rem;
+  margin-right: 0.2rem;
+  background-color: whitesmoke;
+  box-shadow: 0px 4px 2px -0.5px rgb(4, 97, 126);
+}
+.yanabita{
+  background-color: rgb(208, 255, 0);
+  padding: 0.6rem 1.3rem;
+  box-shadow: 0px 4px 2px -0.5px rgb(4, 97, 126);
+}
+.box_uch{
+  margin-top: 27px;
+}
+.text_besh{
+  padding: 0.6rem 1.3rem;
+  margin-right: 0.2rem;
+  background-color: whitesmoke;
+  box-shadow: 0px 4px 2px -0.5px rgb(4, 97, 126);
+}
+.text_olti{
+  padding: 0.6rem 1.3rem;
+  margin-right: 0.2rem;
+  background-color: whitesmoke;
+  box-shadow: 0px 4px 2px -0.5px rgb(4, 97, 126);
+}
+.text_yetti{
+  padding: 0.6rem 1.3rem;
+  margin-right: 0.2rem;
+  background-color: whitesmoke;
+  box-shadow: 0px 4px 2px -0.5px rgb(4, 97, 126);
+}
+.text_sakkiz{
+  padding: 0.6rem 1.4rem;
+  margin-right: 0.2rem;
+  background-color: rgb(208, 255, 0);
+  box-shadow: 0px 4px 2px -0.5px rgb(4, 97, 126);
+}
+.box_tor{
+  margin-top: 27px;
+}
+.text_toqqiz{
+  padding: 0.6rem 1.3rem;
+  margin-right: 0.2rem;
+  background-color: whitesmoke;
+  box-shadow: 0px 4px 2px -0.5px rgb(4, 97, 126);
+}
+.text_on{
+  padding: 0.6rem 1.3rem;
+  margin-right: 0.2rem;
+  background-color: whitesmoke;
+  box-shadow: 0px 4px 2px -0.5px rgb(4, 97, 126);
+}
+.text_onbir{
+  padding: 0.6rem 1.3rem;
+  margin-right: 0.2rem;
+  background-color: whitesmoke;
+  box-shadow: 0px 4px 2px -0.5px rgb(4, 97, 126);
+}
+.text_onikki{
+  padding: 0.6rem 1.3rem;
+  margin-right: 0.2rem;
+  background-color: rgb(208, 255, 0);
+  box-shadow: 0px 4px 2px -0.5px rgb(4, 97, 126);
+}
+.box_besh{
+  margin-top: 26.5px;
+}
+.text_onuch{
+  padding: 9.5px 19.5px;
+  margin-right: 0.2rem;
+  background-color: palevioletred;
+  box-shadow: 0px 4px 2px -0.5px rgb(4, 97, 126);
+}
+.text_ontor{
+  padding: 0.6rem 1.3rem;
+  margin-right: 0.2rem;
+  background-color: whitesmoke;
+  box-shadow: 0px 4px 2px -0.5px rgb(4, 97, 126);
+}
+.text_onbesh{
+  padding: 0.6rem 1.3rem;
+  margin-right: 0.2rem;
+  background-color: whitesmoke;
+  box-shadow: 0px 4px 2px -0.5px rgb(4, 97, 126);
+}
+.text_onolti{
+  padding: 0.6rem 1.4rem;
+  margin-right: 0.2rem;
+  background-color: rgb(208, 255, 0);
+  box-shadow: 0px 4px 2px -0.5px rgb(4, 97, 126);
+}
